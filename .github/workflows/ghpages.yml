@@ -1,0 +1,54 @@
+name: GitHub Pages
+
+on:
+  push:
+  schedule:
+    - cron: "0 9 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-18.04
+    strategy:
+      matrix:
+        python-version: [3.8]
+
+    steps:
+
+      ############################################################################
+      # Build the site using Hugo and ensure that it's working correctly.
+      ############################################################################
+
+      - uses: actions/checkout@v2
+        with:
+          submodules: true  # Fetch Hugo themes
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "0.68.3"
+          extended: true
+
+      - name: Build
+        run: |
+          mkdir -p public
+          hugo --minify
+          cp -r deploy_tools/additional_files/* public/
+
+      - name: Log the public/ directory structure
+        run: find public/ -type f
+
+      ############################################################################
+      # Deploy the site to GitHub pages. Only triggered by pushes to master.
+      ############################################################################
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/master'
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          external_repository: CU-Cybersecurity-Club/Cyber-Club-Website.git
+          publish_branch: master
+          publish_dir: ./public
+          user_name: "github-actions[bot]"
+          user_email: "github-actions[bot]@users.noreply.github.com"
