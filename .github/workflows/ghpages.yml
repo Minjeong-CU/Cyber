@@ -30,10 +30,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: |
-          mkdir -p public
-          hugo --minify
-          cp -r deploy_tools/additional_files/* public/
+        run: mkdir -p public && hugo --minify
 
       - name: Log the public/ directory structure
         run: find public/ -type f
