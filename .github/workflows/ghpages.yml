@@ -44,7 +44,7 @@ jobs:
         if: github.ref == 'refs/heads/master'
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          external_repository: CU-Cybersecurity-Club/cu-cybersecurity-club.github.io.git
+          external_repository: CU-Cybersecurity-Club/cu-cybersecurity-club.github.io
           publish_branch: master
           publish_dir: ./public
           user_name: "github-actions[bot]"
