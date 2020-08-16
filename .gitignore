@@ -1,0 +1,7 @@
+# Generated files
+resources/
+public/
+
+# Text editor residuals
+*.swp
+*~
