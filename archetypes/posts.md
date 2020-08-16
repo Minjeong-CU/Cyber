@@ -1,6 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-date: "{{ dateFormat .Date "2006-01-02" }}"
+date: "{{ dateFormat "2006-01-02" .Date }}"
+authors:
 draft: true
 tags:
 ---
