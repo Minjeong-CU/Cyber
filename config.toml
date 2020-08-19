@@ -1,9 +1,37 @@
-baseURL = "https://cucybersecurityclub.com"
+baseURL = "/"
 languageCode = "en-us"
-title = "Cyber Club"
+title = "CU Cyber Club"
+theme = "hugo-theme-cactus"
+
+[params]
+    colortheme = "classic" # dark, light, white, or classic
+    rss = true
+
+    [[params.social]]
+        name = "Github"
+        link = "https://github.com/CU-Cybersecurity-Club"
+
+    [[params.social]]
+        name = "Twitter"
+        link = "https://twitter.com/CUCybersecurity"
+
+    [[params.social]]
+        name = "Slack"
+        link = "https://cucybersecurityclub.slack.com"
 
 [menu]
 
     [[menu.main]]
+        name = "home"
+        url = "/"
+        weight = 1
+
+    [[menu.main]]
         name = "posts"
         url = "/posts/"
+        weight = 2
+
+    [[menu.main]]
+        name = "tags"
+        url = "/tags/"
+        weight = 3
