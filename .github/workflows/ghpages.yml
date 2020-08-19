@@ -30,7 +30,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: mkdir -p public && hugo --minify
+        run: mkdir -p public && hugo --minify && cp CNAME public
 
       - name: Log the public/ directory structure
         run: find public/ -type f
