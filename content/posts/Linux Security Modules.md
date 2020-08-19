@@ -1,7 +1,8 @@
 ---
 title: "Linux Security Modules"
-date: "2020-08-15"
-authors: Will Shand
+date: "2020-03-05"
+authors:
+  - Will Shand
 draft: false
 tags:
   - Linux
