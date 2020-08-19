@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Cyber Club"
+title = "CU Cyber Club"
 theme = "hugo-theme-cactus"
 
 [params]
@@ -30,3 +30,8 @@ theme = "hugo-theme-cactus"
         name = "posts"
         url = "/posts/"
         weight = 2
+
+    [[menu.main]]
+        name = "tags"
+        url = "/tags/"
+        weight = 3
