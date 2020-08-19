@@ -6,6 +6,7 @@ theme = "hugo-theme-cactus"
 [params]
     colortheme = "classic" # dark, light, white, or classic
     rss = true
+    description = "The website of the CU Cybersecurity Club"
 
     [[params.social]]
         name = "Github"
