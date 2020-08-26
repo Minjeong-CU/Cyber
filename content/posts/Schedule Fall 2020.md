@@ -29,6 +29,7 @@ Location: TBD depending on attendance of first meeting, likely the same Zoom lin
 Time: 5:45pm Mountain
 
 ### Subject: Basic Networking
+[Meeting Notes]({{< ref "Lesson_Networking.md" >}})
 
 ## 2020-09-14: Meeting 3
 Location: TBD
