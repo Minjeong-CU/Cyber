@@ -5,7 +5,7 @@ authors:
   - Will Shand
 draft: false
 tags:
-  - Linux
+  - linux
 ---
 
 _Disclaimer: I threw these notes together for CU Boulder's Collegiate Cyber Defense Competition team for spring 2020. There may be some inaccuracies, and parts of the notes are still incomplete._
