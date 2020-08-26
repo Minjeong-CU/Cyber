@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "CU Cyber Club"
+title = "CU Cybersecurity Club"
 theme = "hugo-theme-cactus"
 
 [params]
@@ -9,16 +9,16 @@ theme = "hugo-theme-cactus"
     description = "The website of the CU Cybersecurity Club"
 
     [[params.social]]
+        name = "Slack"
+        link = "https://cucybersecurityclub.slack.com"
+
+    [[params.social]]
         name = "Github"
         link = "https://github.com/CU-Cybersecurity-Club"
 
     [[params.social]]
         name = "Twitter"
         link = "https://twitter.com/CUCybersecurity"
-
-    [[params.social]]
-        name = "Slack"
-        link = "https://cucybersecurityclub.slack.com"
 
 [menu]
 
