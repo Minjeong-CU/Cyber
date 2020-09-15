@@ -28,26 +28,37 @@ Time: 5:45pm Mountain
 ## 2020-09-07: NO MEETING: Labor Day
 
 ## 2020-09-14: Meeting 2
-Location: TBD depending on attendance of first meeting, likely the same Zoom link
+Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
+
+Due to inexperience with Zoom's breakout rooms, a recording for this meeting is not available.
 
 ### Subject: Basic Networking
 [Meeting Notes]({{< ref "Lesson_Networking.md" >}})
 
+
+### Alt Subject (Based on Experience): Metasploit
+
+Used in the meeting: [Metasploitable](https://sourceforge.net/projects/metasploitable/)
+
+Other links
+- [Hack the Box](https://www.hackthebox.eu/)
+- [VulnHub](https://www.vulnhub.com/)
+
 ## 2020-09-14: Meeting 3
-Location: TBD
+Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
 ### Subject: TBD
 
 ## 2020-09-21: Meeting 4
-Location: TBD
+Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
 ### Subject: TBD
 
 ## 2020-09-28: Meeting 5
-Location: TBD
+Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
 ### Subject: TBD
