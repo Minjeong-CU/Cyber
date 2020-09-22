@@ -45,73 +45,75 @@ Other links
 - [Hack the Box](https://www.hackthebox.eu/)
 - [VulnHub](https://www.vulnhub.com/)
 
-## 2020-09-14: Meeting 3
+## 2020-09-21: Meeting 3
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: TBD
+### Subject: Bandit
 
-## 2020-09-21: Meeting 4
+[Slides](https://docs.google.com/presentation/d/1vzHkrEbB6z20W4o7AhtOP1PoRH2IXdKu888l0uJSovE/edit?usp=sharing)
+
+### Alt Subject (Based on Experience): Hack the Box Signup
+
+[Hack the Box](https://www.hackthebox.eu/)
+
+## 2020-09-28: Meeting 4
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: TBD
+### Subject: Wireshark
 
-## 2020-09-28: Meeting 5
+## 2020-10-05: Meeting 5
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: TBD
+### Subject: SQL injection
 
-## 2020-10-05: Meeting 6
+### Alt Subject: OWASP ZAP
+
+## 2020-10-12: Meeting 6
 Location: TBD
 Time: 5:30pm Mountain
 
 ### Subject: TBD
 
-## 2020-10-12: Meeting 7
+## 2020-10-19: Meeting 7
 Location: TBD
 Time: 5:30pm Mountain
 
 ### Subject: TBD
 
-## 2020-10-19: Meeting 8
+## 2020-10-26: Meeting 8
 Location: TBD
 Time: 5:30pm Mountain
 
 ### Subject: TBD
 
-## 2020-10-26: Meeting 9
+## 2020-11-02: Meeting 9
 Location: TBD
 Time: 5:30pm Mountain
 
 ### Subject: TBD
 
-## 2020-11-02: Meeting 10
+## 2020-11-09: Meeting 10
 Location: TBD
 Time: 5:30pm Mountain
 
 ### Subject: TBD, elections?
 
-## 2020-11-09: Meeting 11
+## 2020-11-16: Meeting 11
 Location: TBD
 Time: 5:30pm Mountain
 
 ### Subject: TBD
 
-## 2020-11-16: Meeting 12
+## 2020-11-23: Meeting 12
 Location: TBD
 Time: 5:30pm Mountain
 
 ### Subject: TBD
 
-## 2020-11-23: Meeting 13
-Location: TBD
-Time: 5:30pm Mountain
-
-### Subject: TBD
-
-## 2020-11-30: Meeting 14
+## 2020-11-30: Meeting 13
 Location: TBD
 Time: 5:30pm Mountain
 
