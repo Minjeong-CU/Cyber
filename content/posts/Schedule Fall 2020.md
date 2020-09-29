@@ -5,10 +5,7 @@ authors:
   - Michael Dresser
 draft: false
 tags:
-  - meetings
   - schedule
-  - administration
-  - 2020
   - 2020fall
 ---
 
