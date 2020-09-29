@@ -1,5 +1,5 @@
 ---
-title: Hack the Box: Admirer
+title: "Hack the Box: Admirer"
 date: "2020-09-28"
 authors:
   - Jacob Malcy
