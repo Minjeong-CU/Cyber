@@ -7,15 +7,7 @@ draft: false
 tags:
   - lesson
   - linux
-  - networks
   - networking
-  - ip
-  - ports
-  - protocols
-  - tcp
-  - udp
-  - ssh
-  - netcat
 ---
 
 This is a rough lesson plan/script for a meeting of the club. It covers some very basic networking concepts using `netcat` and `ssh`. This is intended to be used by a presenter, but if you missed the meeting it should be quite readable.

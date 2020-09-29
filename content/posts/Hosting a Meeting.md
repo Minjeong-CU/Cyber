@@ -12,6 +12,7 @@ tags:
 ## Things you should probably do at the start
 - Plug the Slack: https://cucybersecurityclub.slack.com
 - Plug the site: https://cucybersecurityclub.com/
+- Mention competition teams if recruiting
 - Welcome new members
 - Brief overview of the meeting agenda or introduction of guest speaker
 
