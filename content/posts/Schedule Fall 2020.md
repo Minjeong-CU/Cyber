@@ -63,64 +63,66 @@ Time: 5:30pm Mountain
 
 ### Subject: Wireshark
 
+[Slides](https://docs.google.com/presentation/d/1hdxQqFvvOYuASnoGMmHfD3IRf7DvOOm9a4IwGDoIRWE/edit?usp=sharing)  
+[Recording](https://drive.google.com/file/d/1lp71NHZDfo_VEMtgs0mItzjOY7gHoC0m/view?usp=sharing)
+
+
 ## 2020-10-05: Meeting 5
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: SQL injection
-
-### Alt Subject: OWASP ZAP
+### Subject: OWASP ZAP
 
 ## 2020-10-12: Meeting 6
-Location: TBD
+Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: TBD
+### Subject: VPNs and WireGuard
 
 ## 2020-10-19: Meeting 7
-Location: TBD
+Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: TBD
+### Subject: TBD (likely guest speaker)
 
 ## 2020-10-26: Meeting 8
-Location: TBD
+Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
 ### Subject: TBD
 
 ## 2020-11-02: Meeting 9
-Location: TBD
+Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
 ### Subject: TBD
 
 ## 2020-11-09: Meeting 10
-Location: TBD
+Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
 ### Subject: TBD, elections?
 
 ## 2020-11-16: Meeting 11
-Location: TBD
+Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
 ### Subject: TBD
 
 ## 2020-11-23: Meeting 12
-Location: TBD
+Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
 ### Subject: TBD
 
 ## 2020-11-30: Meeting 13
-Location: TBD
+Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
 ### Subject: TBD
 
 ## 2020-12-07: Meeting 15 and Last Day of Classes
-Location: TBD
+Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
 ### Subject: Movie Night
