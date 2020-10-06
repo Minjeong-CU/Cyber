@@ -1,6 +1,6 @@
 ---
 title: "Fall 2020 Schedule"
-date: "2020-08-26"
+date: "2020-10-05"
 authors:
   - Michael Dresser
 draft: false
@@ -70,6 +70,8 @@ Time: 5:30pm Mountain
 
 ### Subject: OWASP ZAP
 
+[Recording](https://drive.google.com/file/d/1mfnUPby-5kh1lnG3_SjQshWTYP7IGWpG/view?usp=sharing)
+
 ## 2020-10-12: Meeting 6
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
@@ -80,7 +82,7 @@ Time: 5:30pm Mountain
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: TBD (likely guest speaker)
+### Subject: SQL Injection
 
 ## 2020-10-26: Meeting 8
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
