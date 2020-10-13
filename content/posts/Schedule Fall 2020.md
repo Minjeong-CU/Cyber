@@ -90,7 +90,9 @@ Time: 5:30pm Mountain
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: TBD
+### Subject: Guest Speaker
+
+Former club president and now security engineer at Twitter Alex and former club member and now security engineer/incident response at Twitter Anya will be joining us to talk about their experiences transitioning from school to security work and their roles at Twitter.
 
 ## 2020-11-02: Meeting 9
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
