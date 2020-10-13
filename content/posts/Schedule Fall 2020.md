@@ -1,6 +1,6 @@
 ---
 title: "Fall 2020 Schedule"
-date: "2020-10-05"
+date: "2020-10-12"
 authors:
   - Michael Dresser
 draft: false
@@ -77,6 +77,8 @@ Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)
 Time: 5:30pm Mountain
 
 ### Subject: VPNs and WireGuard
+
+[Recording](https://drive.google.com/file/d/1n2t8fEDfSuYIt25srCbkIfkg-pBeOH1e/view?usp=sharing)
 
 ## 2020-10-19: Meeting 7
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
