@@ -86,6 +86,8 @@ Time: 5:30pm Mountain
 
 ### Subject: SQL Injection
 
+[Recording](https://drive.google.com/file/d/1Cr3kjAPwcHWZwqFZIRqPSrsHNla7rTNT/view?usp=sharing)
+
 ## 2020-10-26: Meeting 8
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
@@ -98,7 +100,7 @@ Former club president and now security engineer at Twitter Alex and former club 
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: TBD
+### Subject: OSINT
 
 ## 2020-11-09: Meeting 10
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
