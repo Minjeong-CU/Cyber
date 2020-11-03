@@ -102,23 +102,21 @@ Time: 5:30pm Mountain
 
 ### Subject: OSINT
 
+[Recording](https://drive.google.com/file/d/133d53BYxfKpjvdv5rOYmdRrCnMz4JmKl/view?usp=sharing)
+
 ## 2020-11-09: Meeting 10
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: TBD, elections?
+### Subject: Elections and Security
 
 ## 2020-11-16: Meeting 11
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: TBD
+### Subject: Hack Night - HTB
 
-## 2020-11-23: Meeting 12
-Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
-Time: 5:30pm Mountain
-
-### Subject: TBD
+## 2020-11-23: NO MEETING -- Off for pseudo-fall break
 
 ## 2020-11-30: Meeting 13
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
