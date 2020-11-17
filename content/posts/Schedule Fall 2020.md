@@ -104,7 +104,7 @@ Time: 5:30pm Mountain
 
 [Recording](https://drive.google.com/file/d/133d53BYxfKpjvdv5rOYmdRrCnMz4JmKl/view?usp=sharing)
 
-## 2020-11-09: Meeting 11
+## 2020-11-09: Meeting 10
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
@@ -123,15 +123,8 @@ Time: 5:30pm Mountain
 
 ## 2020-11-23: NO MEETING -- Off for pseudo-fall break
 
-## 2020-11-30: Meeting 13
+## 2020-11-30: Meeting 12 -- LAST Meeting of the semester
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: TBD
-
-## 2020-12-07: Meeting 15 and Last Day of Classes
-Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
-Time: 5:30pm Mountain
-
-### Subject: Movie Night
-Our last day of club has historically always been a movie night. This may prove difficult when remote, but we'll try to figure something out.
+### Subject: Hack Night - CTF
