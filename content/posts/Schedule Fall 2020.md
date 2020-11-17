@@ -108,25 +108,23 @@ Time: 5:30pm Mountain
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: Elections and Security
+### Subject: Hack Night - HTB
+
+[Recording](https://drive.google.com/file/d/1rXWLzHY9TfdUbEtUEhCqObUldM1PMV8V/view?usp=sharing)
 
 ## 2020-11-16: Meeting 11
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: Hack Night - HTB
+### Subject: Election Security
+
+[Slides](https://docs.google.com/presentation/d/1UMEg60Aa-VQqy3tUbApiPbJqHGwk4Wr5o3GMPl25ztM/edit?usp=sharing)  
+[Recording](https://drive.google.com/file/d/1PPV7UEFVNrhpZtYnA4fozeNu-xBgJOFI/view?usp=sharing)
 
 ## 2020-11-23: NO MEETING -- Off for pseudo-fall break
 
-## 2020-11-30: Meeting 13
+## 2020-11-30: Meeting 12 -- LAST Meeting of the semester
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: TBD
-
-## 2020-12-07: Meeting 15 and Last Day of Classes
-Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
-Time: 5:30pm Mountain
-
-### Subject: Movie Night
-Our last day of club has historically always been a movie night. This may prove difficult when remote, but we'll try to figure something out.
+### Subject: Hack Night - CTF
