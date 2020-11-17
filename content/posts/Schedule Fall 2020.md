@@ -104,17 +104,22 @@ Time: 5:30pm Mountain
 
 [Recording](https://drive.google.com/file/d/133d53BYxfKpjvdv5rOYmdRrCnMz4JmKl/view?usp=sharing)
 
-## 2020-11-09: Meeting 10
+## 2020-11-09: Meeting 11
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: Elections and Security
+### Subject: Hack Night - HTB
+
+[Recording](https://drive.google.com/file/d/1rXWLzHY9TfdUbEtUEhCqObUldM1PMV8V/view?usp=sharing)
 
 ## 2020-11-16: Meeting 11
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: Hack Night - HTB
+### Subject: Election Security
+
+[Slides](https://docs.google.com/presentation/d/1UMEg60Aa-VQqy3tUbApiPbJqHGwk4Wr5o3GMPl25ztM/edit?usp=sharing)  
+[Recording](https://drive.google.com/file/d/1PPV7UEFVNrhpZtYnA4fozeNu-xBgJOFI/view?usp=sharing)
 
 ## 2020-11-23: NO MEETING -- Off for pseudo-fall break
 
