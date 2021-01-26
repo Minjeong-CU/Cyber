@@ -20,7 +20,9 @@ Software used in the meeting:
 - [airodump-ng](https://www.aircrack-ng.org/doku.php?id=airodump-ng)
 - [aircrack-ng](https://www.aircrack-ng.org/)
 
-[Slides]()
+Commands and guide to folow what we did found [HERE](https://www.aircrack-ng.org/doku.php?id=cracking_wpa).
+
+[Slides](https://docs.google.com/presentation/d/1aFbzgUjSY7yP9Cfp6cFHi-qPZpAVvcTO0zA8BzszIVE/edit#slide=id.gb44660e11b_0_235)
 
 [Meeting Recording](https://drive.google.com/file/d/1XOLaErSNrpXpBSSCulbKYXleZeO_5SvB/view?usp=sharing)
 
@@ -28,7 +30,9 @@ Software used in the meeting:
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: TBD
+### Subject: Password Cracking
+
+<!-- Meeting Recording]() -->
 
 ## 2021-02-08: Meeting 3
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
