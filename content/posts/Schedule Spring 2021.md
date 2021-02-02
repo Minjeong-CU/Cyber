@@ -23,7 +23,6 @@ Software used in the meeting:
 Commands and guide to folow what we did found [HERE](https://www.aircrack-ng.org/doku.php?id=cracking_wpa).
 
 [Slides](https://docs.google.com/presentation/d/1aFbzgUjSY7yP9Cfp6cFHi-qPZpAVvcTO0zA8BzszIVE/edit#slide=id.gb44660e11b_0_235)
-
 [Meeting Recording](https://drive.google.com/file/d/1XOLaErSNrpXpBSSCulbKYXleZeO_5SvB/view?usp=sharing)
 
 ## 2021-02-01: Meeting 2
@@ -32,13 +31,18 @@ Time: 5:30pm Mountain
 
 ### Subject: Password Cracking
 
-<!-- Meeting Recording]() -->
+Software used in the meeting: 
+- [John The Ripper](https://github.com/openwall/john)
+- [SecLists Github](https://github.com/danielmiessler/SecLists)
+
+[Slides](https://docs.google.com/presentation/d/1Hh6rxnQMPxAkHEC0J-riABAFS5mr6Gfi2POyeGWft0k/edit?usp=sharing)
+[Meeting Recording]()
 
 ## 2021-02-08: Meeting 3
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: TBD
+### Subject: Google Hacks (Using Google to your advantage in cyber security and life)
 
 <!-- Meeting Recording]() -->
 
@@ -46,7 +50,7 @@ Time: 5:30pm Mountain
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: TBD
+### Subject: PGP Encryption/PKI
 
 <!-- Meeting Recording]() -->
 
@@ -78,9 +82,11 @@ Time: 5:30pm Mountain
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: TBD
+### Subject: Cyber Security Policy - Andy Sayler
 
-<!-- Meeting Recording]() -->
+Past club president and current Senior Security Engineer at Twitter, Andy Sayler, will be talking about security, privacy, and public policy.
+
+<!-- Meeting Recording]() -->**
 
 ## 2021-03-22: Meeting 9
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
