@@ -36,7 +36,7 @@ Software used in the meeting:
 - [SecLists Github](https://github.com/danielmiessler/SecLists)
 
 [Slides](https://docs.google.com/presentation/d/1Hh6rxnQMPxAkHEC0J-riABAFS5mr6Gfi2POyeGWft0k/edit?usp=sharing)
-[Meeting Recording]()
+[Meeting Recording](https://drive.google.com/file/d/1-6-gn5lEUHYMGXQs8VQHqO8rWYVFVCUX/view?usp=sharing)
 
 ## 2021-02-08: Meeting 3
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
