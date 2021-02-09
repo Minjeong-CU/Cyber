@@ -22,7 +22,7 @@ Software used in the meeting:
 
 Commands and guide to folow what we did found [HERE](https://www.aircrack-ng.org/doku.php?id=cracking_wpa).
 
-[Slides](https://docs.google.com/presentation/d/1aFbzgUjSY7yP9Cfp6cFHi-qPZpAVvcTO0zA8BzszIVE/edit#slide=id.gb44660e11b_0_235)
+[Slides](https://docs.google.com/presentation/d/1aFbzgUjSY7yP9Cfp6cFHi-qPZpAVvcTO0zA8BzszIVE/edit?usp=sharing)
 
 [Meeting Recording](https://drive.google.com/file/d/1XOLaErSNrpXpBSSCulbKYXleZeO_5SvB/view?usp=sharing)
 
@@ -46,7 +46,9 @@ Time: 5:30pm Mountain
 
 ### Subject: Google Hacks (Using Google to your advantage in cyber security and life)
 
-<!-- Meeting Recording]() -->
+[Slides]()
+
+[Meeting Recording](https://drive.google.com/file/d/1wAJWpql_EDBVkUp4ISm8_OgWZmnDt3GT/view?usp=sharing)
 
 ## 2021-02-15: Meeting 4
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
