@@ -56,13 +56,15 @@ Time: 5:30pm Mountain
 
 ### Subject: PGP Encryption/PKI
 
-<!-- Meeting Recording]() -->
+[Slides](https://drive.google.com/file/d/1DjEN_kJxJBW6Cd53l4HMMz4inKCZDcaT/view?usp=sharing)
+
+[Meeting Recording](https://drive.google.com/file/d/1zO8kC6ZcKPPlbkSiuPkKMn4WuzsZmyTu/view?usp=sharing)
 
 ## 2021-02-22: Meeting 5
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: TBD
+### Subject: What is Tor and What is it Used For?
 
 <!-- Meeting Recording]() -->
 
@@ -70,7 +72,7 @@ Time: 5:30pm Mountain
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: TBD
+### Subject: NAT Slipstreaming
 
 <!-- Meeting Recording]() -->
 
@@ -90,7 +92,7 @@ Time: 5:30pm Mountain
 
 Past club president and current Senior Security Engineer at Twitter, Andy Sayler, will be talking about security, privacy, and public policy.
 
-<!-- Meeting Recording]() -->**
+<!-- Meeting Recording]() -->
 
 ## 2021-03-22: Meeting 9
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
