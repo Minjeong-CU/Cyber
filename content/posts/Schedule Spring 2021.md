@@ -66,13 +66,15 @@ Time: 5:30pm Mountain
 
 ### Subject: What is Tor and What is it Used For?
 
-<!-- Meeting Recording]() -->
+[Slides](https://docs.google.com/presentation/d/1BlEKXwhw9dH1YzT5Dq7_Djn4gpDjknbdHzTAg6o9K64/edit?usp=sharing)
+
+[Meeting Recording](https://drive.google.com/file/d/1HQ3rZW8KbigaO7rX_ZYZSbgwV8jYZE30/view?usp=sharing)
 
 ## 2021-03-01: Meeting 6
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: NAT Slipstreaming
+### Subject: Privacy Online
 
 <!-- Meeting Recording]() -->
 
@@ -80,7 +82,7 @@ Time: 5:30pm Mountain
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: TBD
+### Subject: NAT Slipstreaming?
 
 <!-- Meeting Recording]() -->
 
