@@ -74,7 +74,7 @@ Time: 5:30pm Mountain
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: Privacy Online
+### Subject: NAT Slipstreaming
 
 <!-- Meeting Recording]() -->
 
@@ -82,7 +82,7 @@ Time: 5:30pm Mountain
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: NAT Slipstreaming?
+### Subject: Privacy Online
 
 <!-- Meeting Recording]() -->
 
