@@ -76,7 +76,14 @@ Time: 5:30pm Mountain
 
 ### Subject: NAT Slipstreaming
 
-<!-- Meeting Recording]() -->
+Software and Further References: 
+- [Original POC From Samy Kamkar](https://samy.pl/slipstream/)
+- [Jacob's Github Demo](https://github.com/pcx436/natty-slipstream)
+- [Abusing Application Layer Gateways](https://embracethered.com/blog/posts/2020/nat-slipstreaming-simplified/)
+
+[Slides](https://docs.google.com/presentation/d/1VrVHsw9mOXBig31NgtPHkeHKKTaCiXMHfoJ8_Z8HRw0/edit?usp=sharing)
+
+[Meeting Recording](https://drive.google.com/file/d/1LQCOm2OGwSLKnzjru2uOjCWh8uM4FCh9/view?usp=sharing)
 
 ## 2021-03-08: Meeting 7
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
