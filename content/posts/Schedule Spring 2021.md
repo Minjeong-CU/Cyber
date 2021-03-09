@@ -89,7 +89,10 @@ Software and Further References:
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: Privacy Online
+### Subject: Hack Night - Hack The Box
+
+Software and Further References: 
+- [Hack The Box](https://app.hackthebox.eu/)
 
 <!-- Meeting Recording]() -->
 
