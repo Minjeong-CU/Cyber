@@ -100,9 +100,7 @@ Software and Further References:
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: Cyber Security Policy - Andy Sayler
-
-Past club president and current Senior Security Engineer at Twitter, Andy Sayler, will be talking about security, privacy, and public policy.
+### Subject: CANCELED - SNOW DAY
 
 <!-- Meeting Recording]() -->
 
@@ -110,7 +108,9 @@ Past club president and current Senior Security Engineer at Twitter, Andy Sayler
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: TBD
+### Subject: Cyber Security Policy - Andy Sayler
+
+Past club president and current Senior Security Engineer at Twitter, Andy Sayler, will be talking about security, privacy, and public policy.
 
 <!-- Meeting Recording]() -->
 
