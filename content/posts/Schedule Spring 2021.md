@@ -108,7 +108,7 @@ Time: 5:30pm Mountain
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: Cyber Security Policy - Andy Sayler
+### Subject: Future of Cyber Security - Andy Sayler
 
 Past club president and current Senior Security Engineer at Twitter, Andy Sayler talked about the state of cyber security and how to go beyond Whack-A-Mole control of security vulnerabilities.
 
