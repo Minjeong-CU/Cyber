@@ -110,17 +110,32 @@ Time: 5:30pm Mountain
 
 ### Subject: Cyber Security Policy - Andy Sayler
 
-Past club president and current Senior Security Engineer at Twitter, Andy Sayler, will be talking about security, privacy, and public policy.
+Past club president and current Senior Security Engineer at Twitter, Andy Sayler talked about the state of cyber security and how to go beyond Whack-A-Mole control of security vulnerabilities.
 
-<!-- Meeting Recording]() -->
+[Meeting Recording](https://drive.google.com/file/d/13aKCnyrnSYnZ5GlUHV3qtFlGpjAr7S48/view?usp=sharing)
 
 ## 2021-03-29: Meeting 10
 Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
 Time: 5:30pm Mountain
 
-### Subject: TBD
+## 2021-03-26 & 2021-03-27: SPECIAL EVENT -- Colligiate Cyber Defense Competition (CCDC) Regionals
+
+Our club team will be competing in the CCDC Rocky Mountain Regional. If you are interested in learning more about CCDC or how to get involved in the future please reach out to Colin, Sam, or Jacob on the club slack.
+
+- [National CCDC Info](https://www.nationalccdc.org/)
+
+### Subject: Hack Night - Hack the Box
+
+Software and Further References: 
+- [Hack The Box](https://app.hackthebox.eu/)
+
+Note: Student developer club meetup on April 3 to work on picoCTF challenges.
 
 <!-- Meeting Recording]() -->
+
+## 2021-04-03: SPECIAL EVENT -- Student Developer Club Meetup
+
+We are collaborating with the student developers club to work on pocoCTF challenges.
 
 ## 2021-04-05: NO MEETING -- Off for Easter
 
