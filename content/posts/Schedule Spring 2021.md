@@ -114,15 +114,15 @@ Past club president and current Senior Security Engineer at Twitter, Andy Sayler
 
 [Meeting Recording](https://drive.google.com/file/d/13aKCnyrnSYnZ5GlUHV3qtFlGpjAr7S48/view?usp=sharing)
 
-## 2021-03-29: Meeting 10
-Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
-Time: 5:30pm Mountain
-
 ## 2021-03-26 & 2021-03-27: SPECIAL EVENT -- Colligiate Cyber Defense Competition (CCDC) Regionals
 
 Our club team will be competing in the CCDC Rocky Mountain Regional. If you are interested in learning more about CCDC or how to get involved in the future please reach out to Colin, Sam, or Jacob on the club slack.
 
 - [National CCDC Info](https://www.nationalccdc.org/)
+
+## 2021-03-29: Meeting 10
+Location: [Zoom](https://cuboulder.zoom.us/j/94087253717)  
+Time: 5:30pm Mountain
 
 ### Subject: Hack Night - Hack the Box
 
